@@ -4,12 +4,6 @@ This is my solution to the [QR Code Component Challenge](https://www.frontendmen
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot of the QR Code Component](./screenshot.jpg)
-
----
-
 ## 🔗 Links
 
 - 🌐 Live Site: [Live Demo](https://1-qr-code-component.netlify.app/)
